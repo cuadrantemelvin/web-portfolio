@@ -1,0 +1,58 @@
+body{
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+#me{
+	height: 220px;
+	width: 220px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: gray;
+	border-width: 5px;
+	margin-top: 50px;
+}
+
+.about{
+	color: white;
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.5;
+	background-color: #333;
+	border-style: solid;
+	border-color: white;
+}
+
+h1{
+	color:orange;
+	margin-bottom: 0;
+	background-color: #333;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	border-style: solid;
+	border-color: white;
+
+}
+h2{
+	color:black;
+	text-transform: uppercase;
+	background-color: orange;
+	letter-spacing: 5px;
+	border-style: solid;
+	border-color: white;
+
+}
+
+.container{
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.footer {
+	color: white; 
+	font-style: ;
+}
